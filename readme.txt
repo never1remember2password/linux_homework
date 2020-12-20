@@ -1,0 +1,3 @@
+/process本目录和/process/homework下的代码是进程的控制与管理，fork创建子进程和子进程函数功能改变exec和wait同步
+/process/homework2下的代码是进程通信，ipc的方式是匿名管道和消息队列和共享内存
+/process/homework3下的代码是网络socket编程的各种函数组使用，对应包含了tcp udp
